@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "nem-namespace-notifier",
+  "version": "0.0.1",
+  "description": "This script notify you that registered nem namespace expiry date is approaching",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "cd src && jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/44uk/nem-namespace-notifier.git"
+  },
+  "keywords": [
+    "nem",
+    "nem-blockchain",
+    "javascript"
+  ],
+  "author": "44uk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/44uk/nem-namespace-notifier/issues"
+  },
+  "homepage": "https://github.com/44uk/nem-namespace-notifier#readme"
+}
